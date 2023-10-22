@@ -1,0 +1,62 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": "anushka",
+      "title": "book1",
+      "about": "lorem1",
+      "genre": "genre",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "author": "aditi",
+      "title": "book2",
+      "about": "lorem2",
+      "genre": "genre",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "author": "sunita",
+      "title": "book3",
+      "about": "lorem3",
+      "genre": "genre1",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "author": "anushka4",
+      "title": "book4",
+      "about": "lorem4",
+      "genre": "genre1",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "author": "anushka5",
+      "title": "book5",
+      "about": "lorem5",
+      "genre": "genre2",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "author": "anushka6",
+      "title": "book6",
+      "about": "lorem6",
+      "genre": "genre2",
+      "count": 0
+    }
+  ],
+  "Cartblogs": [
+    {
+      "id": 1,
+      "author": "anushka",
+      "title": "book1",
+      "about": "lorem1",
+      "genre": "genre",
+      "count": 5
+    }
+  ]
+}
